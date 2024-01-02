@@ -1,0 +1,100 @@
+
+
+html{
+
+font-size: 22px;
+
+}
+body{
+    
+
+}
+
+main{
+
+    font-family: monospace;
+
+}
+
+button,textarea,input,select{
+
+font: inherit;
+
+}
+
+p{
+
+    color: red;
+
+}
+    
+
+p{
+
+    color: purple;
+
+}
+
+
+
+
+
+h1{
+
+    color: bisque
+}
+
+h2{
+
+    color:orange
+
+}
+
+
+h3{
+
+    color:blue
+
+}
+
+h4{
+
+    color: yellow;
+
+}
+
+.gray{
+
+    color: gray;
+
+}
+
+
+.red{
+
+    color:red
+
+
+}
+
+.blue{
+
+    color: blue;
+}
+
+
+.highlight{
+
+    text-transform: uppercase;
+    background-color: gold;
+
+
+}
+
+
+#second{
+
+    font-style: italic;
+
+
+}
